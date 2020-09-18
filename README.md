@@ -13,6 +13,6 @@ ___
 
 [Github](https://github.com/IcedLemonTea0/EDA_Consumer_Finance_Complaints) [nbviewer](https://rb.gy/4tkuiv)
 
-Consumers complaints are an integral process on highlighting how consumers feel about a certain business or products. This is an exploratory data analysis problem: based on data retrieved from Consumer Financial Protection Bureau from 2011 - 2016. This datasets provides crucial concerns by the consumers regarding financial institutions practices and their responses to consumers. In it, I will explore using visualization tools to summarize these concerns and explain interesting trends that many consumers feel about the marketplace. 
+Gathering consumer complaints is an integral process on highlighting how consumers feel about a certain business or products. This is an exploratory data analysis problem: based on data retrieved from Consumer Financial Protection Bureau from 2011 - 2016. This datasets provides crucial concerns by the consumers regarding financial institutions practices and their responses to consumers. In it, I will explore using visualization tools to summarize these concerns and explain interesting trends that many consumers feel about the marketplace. 
 
  
