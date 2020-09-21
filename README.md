@@ -17,13 +17,13 @@ Collecting consumers complaints are an informative information that highlights h
 
 ## Early COVID-19 lockdown analysis in China
 
-[Github](https://github.com/IcedLemonTea0/EDA-COVID-19-in-China)[nbviewer](https://rb.gy/znht9t)
+[Github](https://github.com/IcedLemonTea0/EDA-COVID-19-in-China) [nbviewer](https://rb.gy/znht9t)
 
 China became the first major country to shut down the city of Wuhan - where large cases of COIVD-19 was reported in that region. Using the datas from [John Hopkins University](https://github.com/CSSEGISandData/COVID-19), this is an exploratory data analysis problem. In this report, we will learn how effective China's lockdown has been over the course of initial 2 month period. To do that, we'll observe trends and behavior in number of reported cases.
 
 ## Leading Causes of Death in United States (1999-2016)
 
-[Github](https://github.com/IcedLemonTea0/Exploratory-Analysis-National-Center-for-Health-Statistics-1999-2016-)[nbviewer](https://rb.gy/vztmwr) 
+[Github](https://github.com/IcedLemonTea0/Exploratory-Analysis-National-Center-for-Health-Statistics-1999-2016-) [nbviewer](https://rb.gy/vztmwr) 
 
 National data on leading causes of death are used to monitor trends, recognize emerging challenges, track the effectiveness of interventions, and make public health decisions that improve and save lives. This is an exploratory data analysis problem: since the data represents the most frequent occuring causes of death. In this report, we'll identify growing trends, and we'll also uncover key areas of the country that are leading in various causes of deaths.  
 
