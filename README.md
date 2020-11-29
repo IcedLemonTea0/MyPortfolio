@@ -2,9 +2,9 @@
 
 ***
 
-This portfolio consists of all the collections of projects I have created for data analytical roles. I have no prior professional experience in any analytical field but I have invested my time in learning and improving from every project that I completed. The purpose of this portfolio is to showcase the viewers my technical and analytical capability as an aspiring candidate for analytical role.  
+This portfolio consists of all the collections of projects I have created for data analytical roles. I have no prior professional experience in analytical field so this will serve as my journal that keep tracks of my analytical progress. In this portfolio, I focus on showing my technical and analytical capability as an aspiring candidate for analytical role.  
 
-My goal is to show others that I am detail-oriented, I pay attention to details and structure of what the problem is. I prioritize methodological practice to provide an accurate and reliable analysis. And finally, communicating my work in a clear and logical manner in which any individual can follow.  
+My goal is to show others that I am detail-oriented, I pay attention to every detailed information and try to understand the structure of what the problem is. I prioritize methodological practice to provide an accurate and reliable analysis. And finally, communicating my work in a clear and logical manner that any individual can follow.  
 ___
 
 ## Consumer Finance Complaints
